@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>638965514307-7q2bpk3a8jjcp7j4p6ba5c9pak6ns854.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.638965514307-7q2bpk3a8jjcp7j4p6ba5c9pak6ns854</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>638965514307-e6nc66qnsaqsqs5ts23j639o4rdgfb8v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6MEn072WnBRmspIUdklOA6Y8CQVp3PRY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>638965514307</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.leapper.leapperios</string>
+	<key>PROJECT_ID</key>
+	<string>leapper-3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>leapper-3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:638965514307:ios:350aff6cd0ca49d25314f6</string>
+	<key>DATABASE_URL</key>
+	<string>https://leapper-3.firebaseio.com</string>
+</dict>
+</plist>

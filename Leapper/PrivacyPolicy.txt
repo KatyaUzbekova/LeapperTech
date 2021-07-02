@@ -1,0 +1,349 @@
+LEAPPER PRIVACY POLICY
+
+Effective Date: January [30], 2020
+Leapper Technologies Ltd. (“Leapper”, “we”, “us”, or “our”) respects your privacy and is committed to protect
+the personal information of its users – members, non-members, collaborators and other visitors (collectively,
+the “users” or "you" , "yours" and similar pronouns) browsing our website or mobile application (the “Apps”) as
+well as affiliates, influencers, social media followers and other collaborators interacting with us. We do not use
+or disclose your personal information to others except as disclosed in this Privacy Policy (or the "Policy") or as
+required to provide you with our services through the Apps. The Apps constitute a platform that connects
+members and other users with one another through trusted personal contacts recommendations, and serves as platform for business interactions (the "Services").
+This Policy explains our privacy practices for the Apps and Services provided by Leapper as well as privacy practices that apply to affiliates, influencers and other collaborators who are natural persons.
+We need to process your personal information to run our business and provide our users with the Services. By accepting our HYPERLINK "Leaper.com/terms_of_use"Terms of Use, you are confirming that you have also read and understand this Policy, including how and why we use your information. If you do not want us to collect or process your personal information in the ways described in this Policy, you should not use the Services.
+We are not responsible for users' content or the privacy policies or practices of any of our members, non-members, websites hosted through Leapper, third-party websites, or third-party apps.
+A "Member" is Leapper registered user with a valid account;
+A "Non-member" is a person using the Apps who is not yet a registered Leapper Member.
+1.Identity and the contact details of the controller and the controller’s representative
+Leapper Technologies, Ltd., company number 515980027
+62, Habrosh St, Sdeh Yitzhak, Israel 3884000
+support@leapper.com
+2.Personal information Processed
+2.1In the course of providing our Services, we collect or receive your personal information in a few different
+ways. Often, you choose what information to provide, but sometimes we require certain information
+for you to use and for us to provide you the Services. For the purposes of European law and unless
+otherwise provided in this Policy, Leapper is the data controller and is responsible for your personal
+information.
+2.2Registration, Account Setup, Profile:
+oYour name and a name associated with your account to represent your profile
+oan email address
+oa telephone number
+oa physical postal address
+oYour pictures
+oYour IP address
+oYour date of birth
+oYour interests / favorites
+You can edit or remove this information through your account settings (other than IP address and
+telephone number).
+Please note that the use of the Services may require payment of certain fees, which shall be collected
+by certified payment service providers (and not by Leapper itself). You may be required to provide the
+payment service providers with personal and financial information (such as your name, address, phone
+number, payment method and credit card information). The use of such information is subject to the
+privacy policies of the payment service providers.
+
+The name associated with your account, which you may review and change in your account settings, is
+publicly displayed and connected to your Leapper activity. Other people may see the date you joined;
+ratings, reviews, Leapper users and recommendations you have made and connections; your profile
+information; your interests, followers, and those you follow; Leapper contacts; and information you
+decide to share via social networks.
+2.3AutomatedInformation: Leapper automatically receives and records information from your browser or
+your mobile device when you visit or using the Apps or use certain other Services, such as:
+oURL & Title of pages viewed
+oURL & Title of any links that are clicked on pages viewed
+oReferrer
+oUser agent
+oBrowser and browser version
+oScreen resolution
+ox/y coordinates of mouse events
+ocookies, such as unique ID tracking cookie, session ID
+This information is stored in log files and is collected automatically.
+We may combine this information from your browser or your mobile device with other information
+that we or our partners collect about you, including across devices. This information is used to prevent
+fraud and to keep the Services secure, to analyze and understand how the Services work for members
+and visitors. Further, this information is used to provide advertising, including across your devices, and
+a more personalized experience for members and non-members.For more information, see Leapper's
+Cookies Policy
+2.4Location Information. We may collect information about your use of the Services for advertising, for
+analytics, to serve content, and to protect the Services. This may include your IP address, browser
+information (including referrers), device information (such as iOS IDFA, IDFV for limited non-advertising
+purposes, Android AAID, and, when enabled by you, location information provided by your device). We
+may use and store information about your location to provide features and to improve and customize
+the Services, for example, for Leapper’s internal analytics and performance monitoring; localization,
+regional requirements, and policies for the Services; for local content, search results, and
+recommendations and marketing.
+If you have consented to share your precise device location details but would no longer like to continue
+sharing that information with us, you may revoke your consent to the sharing of that information
+through the settings on the Apps or on your mobile device.
+Certain non-precise location services, such as for security and localized policies based on your IP address
+or submitted address, are critical for the Apps to function.
+2.5Analytics Information. We use data analytics to ensure Apps functionality and improve the Services. In
+addition to web analytics, we use mobile analytics software to allow us to understand the functionality
+of the Apps on your phone. This software may record information such as how often you use the Apps,
+what happens within the Apps, aggregated usage, performance data, app errors and debugging
+information, and where the Apps were downloaded from. We do not link the information we store
+within the analytics software to any personally identifiable information that you submit within the
+mobile application.
+2.6Information from Third Parties. Some members or non-members may choose to connect to Leapper or
+register to a Leapper account using an external third-party application, such as Facebook. Leapper may
+receive information from those connected third-party applications. Connecting your Leapper account
+to third-party applications or services is optional. If you choose to connect your account to a third-party
+application, we may receive information from that application. We may also collect public information
+in order to connect with you. We may use that information as part of providing the Services to you. You
+can also choose to share some of your activity on Leapper on certain social media networks which are
+connected to your Leapper account, and you can revoke your permission anytime in your account
+settings.
+
+2.7Non-Member Information. Leapper may receive or obtain information about a person who is not yet a
+registered Leapper member (a “non-member”) in connection with certain Leapper features, such as
+when a member invites a non-member to visit or using the Apps, a member uploads non-member
+information using the contact uploader feature for another member or a non-member engages in a
+transaction through Leapper. Non-member information, such as, name, phone number or an email
+address, is used only for the purposes disclosed when it was submitted to Leapper, for purposes
+necessary to the functioning of Leapper's Services or where Leapper has a legitimate interest, as
+disclosed below, or to facilitate action authorized by a member or the non-member.
+Non-members who are being invited or recommended by a Leapper member to use the Apps (the
+"recommending member"), will receive a notice from Leapper, by e-mail or by SMS text message,
+allowing the invited non-member to opt-out of the use of the recommending member in his or her
+contact information through Leapper, with respect to the recommended transaction.
+For the purposes of European law, these recommending members are independent controllers of data,
+which means that they are responsible for any contact details or other personal information regarding
+an invited non-member they obtain in connection with the Services.
+3.Purposes of the Processing of Personal information
+3.1We process your personal information for:
+3.1.1The operation of our Services in which you want to participate, mainly to facilitate engagements
+between members and users and to use personal information (namely contact information) for
+Leapper-related communications or for Leapper-facilitated engagements.
+3.1.2Creation of anonymized data from your personal information for further statistical and analytical
+purposes;
+3.1.3Understand you and your preferences and improve your experience; and
+3.1.4The following purposes:
+oMarketing
+oSecurity measures
+oAnswering contact inquiries
+oComplying with requests from supervisory authorities and other official government bodies
+oComplying with legal obligations (e.g. anti-money laundering provisions).
+oAs well as our legitimate interests as stated below.
+4.Provision of Personal information – Contractual Requirement
+Leapper provides a voluntary service; you can choose whether or not you want to use the Services. However,
+if you want to use the Services, you need to agree to our HYPERLINK
+"Leaper.com/terms_of_use"Terms of Use, which set out the contract between Leapper and its
+members and users. As we operate in countries worldwide and use technical infrastructure in the U.S. (by
+Google) to deliver the Services to you, in accordance with the contract between us, we need to transfer your
+personal information to the U.S. and to allow processing from Israel and other jurisdictions, as necessary to
+provide the Services. Simply put, we cannot provide you with the Services and perform our contract with you
+without moving your personal information around the world.Further, we cannot execute the respective
+Services without having and using your name, some basic identifiers and your contact details.
+5.Legal Basis for the Processing
+5.1By submitting your Personal information, you consent, acknowledge, and agree that we may collect,
+use, transfer, and disclose your Personal information as described in this Privacy Policy.
+5.2The legal basis for processing personal information for the operation of the Services is for the
+performance of a contract with you. This is because Leapper is a platform that connects members and
+other users with one another through trusted personal contacts recommendations, and serves as a
+platform community for business interactions
+
+5.3The legal basis for processing personal information for marketing and advertising sent to your email
+address is your consent.
+5.4The legal basis for other processing purposes listed above are:
+ocompliance with a legal obligation;
+oprotection of the vital interests of the data subject or of another natural person; and
+oour legitimate interests (as further described below).
+5.5The legitimate interests pursued by Leapper can be:
+5.5.1Improving our services for our users, efficiency, interest in Services for users, and obtaining insights
+into usage patterns of our Services;
+5.5.2Keeping our Services Safe and Secure;
+5.5.3Prevention of violation of our Leaper.com/terms_of_use;
+5.5.4Legal and Safety – we may also retain, preserve, or release your personal information to a third
+party in the following limited circumstances:
+oPrecautions against potential liability;
+oProtection of the rights, property, or safety of Leapper, any individual, or the general public;
+oMaintenance and protection of the security and integrity of our product, Services or
+infrastructure;
+oProtection of ourselves and our Apps, Services or infrastructure from fraudulent, abusive, or
+unlawful uses;
+oInvestigation and defense of ourselves against third-party claims or allegations; or
+oAssistance to government enforcement agencies.
+6.Sharing Personal information
+6.1We respect your privacy. Leapper will not disclose your name, email address, or other personal
+information to third parties without your consent, except as specified in this Policy.
+6.2Service Providers. Leapper needs to engage third-party companies and individuals to help us operate,
+provide, and market the Services, such as our cloud-service provider, which is hosting the Leapper
+platform and any data processed by Leapper, IT-services providers, research companies, payment
+service providers and analytics and security providers. These third parties have only limited access to
+your information, may use your information only to perform these tasks on our behalf, and are obligated
+to Leapper not to disclose or use your information for other purposes.
+Our engagement of service providers is often necessary for us to provide the Services to you, particularly
+where such companies play important roles like processing payments and shipments and helping us
+keep our Service operating and secure. In some other cases, these service providers aren’t strictly
+necessary for us to provide the Services, but help us make it better, like by helping us conduct research
+into how we could better serve our users. In these latter cases, we have a legitimate interest in working
+with service providers to make our Services better.
+6.3Aggregated Information: Leapper may share demographic information with business partners, but it will
+be aggregated and de-identified so that personal information is not revealed.
+6.4Connect an account. If you have chosen to connect your account to an external third-party application,
+such as Facebook, or an app developed using the API, you can change your settings and remove
+permission for the app by changing your account settings.
+6.5Advertise through the Services. We or our members may advertise products and services through variety
+of different mediums based on the Services as a platform and rely on your consent to do so off-site. As
+part of this, we may work with advertising partners such as Facebook, Google, and other partners, and
+you may see the privacy policies and privacy choices for these partners in their websites.
+We also partner with third parties to manage our advertising on other sites. Our third-party partners
+may use cookies or similar technologies in order to provide you with advertising based upon your
+browsing activities and interests. These interactions are subject to the Privacy Policy of the third-party
+
+site. In addition, certain cookies and other similar technologies on the Apps are used by third parties for
+targeted online marketing and other purposes. These technologies allow a partner to recognize your
+computer or mobile device each time you use the Services. Please be aware that when you use third-
+party sites or services, their own terms and privacy policies will govern your use of those sites or services.
+6.6Business Reorganization. In some cases, Leapper may choose to buy or sell assets. Such transactions,
+such as a sale, merger, liquidation, receivership, or transfer of all or substantially all of Leapper’s assets,
+may be necessary and in our legitimate interests. In these types of transactions, users’ information is
+typically one of the business assets that is transferred. If Leapper intends to transfer information about
+you, Leapper will notify you by email or by putting a prominent notice on the App, and you will be
+afforded an opportunity to opt out before information about you becomes subject to a different privacy
+policy.
+6.7Corporate Customers. Leapper may share your content available through the Apps, such as commercial
+data, statistics and analytical data with its corporate customers, provided that, you are affiliated to such
+corporate customer. Access to your content will be based on appropriate safeguards and contractual
+obligations of confidentiality and data protection. For the avoidance of doubt, Leapper will not share
+your personal information with such corporate customer or anyone on its behalf.
+6.8This Policy does not apply to the practices of third parties (such as other members who sell using the
+Services, certain third-party providers on whom we rely to provide certain services, or API users) that
+Leapper does not own or control, or individuals that Leapper does not employ or manage, except as
+otherwise provided for in the HYPERLINK "Leaper.com/terms_of_use"Terms of Service or as
+required by law. To the full extent applicable in your jurisdiction, Leapper is not responsible for the
+privacy or security practices of these third party providers, API users, or other websites on the internet,
+even those linked to or from the Services. We encourage you to read the privacy policies and ask
+questions of third parties before you disclose your personal information to them.
+For the purposes of European law, these third party providers, and API users are independent controllers
+of data, which means that they are responsible for providing and complying with their own policies
+relating to any personal information they obtain in connection with the Services.
+7.Your Rights
+7.1We know that members of our community value having control over their own information, so Leapper
+gives you the choice of providing, editing, or removing certain information, as well as choices about how
+we contact you.
+7.2You may change or correct your Leapper account information through your account settings.
+7.3You may also remove certain optional information that you no longer wish to be publicly visible through
+the Services, such as your name.
+7.4You can also request from delete your personal information or to restrict processing concerning yourself
+or to object to processing.
+7.5Depending on your location, you may also have certain additional rights with respect to your
+information, such as: (i) data access and portability (including the right to obtain a copy of your personal
+information you provided to Leapper, via your settings); (ii) data correction (including the ability to
+update your personal information, in many cases via settings); (iii) data deletion (including the right to
+have Leapper delete your personal information, except information we are required to retain by law,
+regulation, or to protect the safety, security, and integrity of Leapper, by contacting us); and/or, (iv)
+withdrawal of consent or objection to processing (including, in limited circumstances, the right to ask
+Leapper to stop processing your personal information, with some exceptions, by contacting us).
+7.6Further, you have the right to complain to the responsible supervisory authority in your Member State.
+7.7We use non-technically necessary cookies and similar technologies. A more detailed explanation of the
+technologies we use, and how to opt out when applicable, can be found in our Cookies Policy.
+7.8You may also control the receipt of certain types of communications from Leapper in your account
+settings. Leapper may send you messages about the Services or your activity. Some of these messages
+are required, service-related messages for members (such as transactional messages or legal notices).
+
+1
+Other messages are not required, such as newsletters. You can control which optional messages you
+choose to receive by changing your account settings.
+8.Findability/connectivity
+8.1As default, your connection is through your mobile device’s phone number or address book. In the future
+you may be able to choose to connect directly with your email service provider, your mobile device’s
+phone number or address book, or a social network account to import your contacts to Leapper. We do
+not retain the login information for your email service, mobile device, or social network site. You may
+be able to search for people you know by email address or phone number on the Apps or by connecting
+to your mobile device’s contact list through the Apps. Finding your friends on Leapper helps you connect
+with them on our platform. For example, you can follow another member’s public activity, such as public
+interests. When you begin following another member’s activity, they will receive a notification through
+the Apps.
+8.2If you do not want your contacts to be able to find you on Leapper through your email address, phone
+number, or social networking connections, in the future you will be able to change your findability
+through your account settings. If you do not wish to be located on Leapper via your name, you can
+remove your name and instead may use a nickname or alias as your name in your public account
+information.
+8.3Non-members who are being invited or recommended by a Leapper member to use the Apps, will
+receive notice once they are so invited. Such non-members may opt-out of the mailing list of such
+member, prohibiting him or her from using the non-members' contact information with respect to the
+recommended transaction. Members shall have full responsibility for using non-members' contact
+information and for inviting them to use the Apps.
+9.Community
+9.1Leapper is a community. We offer several features that allow members to connect and communicate in
+public or semi-public spaces, which are a part of the Leapper community space. You don't have to use
+these features, but if you do, please use common sense and good judgment when posting in these
+community spaces or sharing your personal information with others through the Services.
+9.2Be aware that any personal information that you choose to submit there can be read, collected, or used
+by others, or could be used to send unsolicited messages to you. We may engage certain third parties
+to assist in providing community services to you and, in the context of that relationship, we need to
+share some of your information with such third parties in order to provide that service. This may include,
+for example, public information from your private or business profile, information from your Leapper
+account that is publicly available, your account’s status and team memberships, your Leapper username
+and/or title, the display name you’ve optionally chosen to share publicly in your Leapper account, avatar
+image, the date that you registered on Leapper, interests, as well as any other feature you may wish to
+disclose on Leapper.
+9.3Leapper generally does not remove content from community spaces, and your public information may
+remain public after your account is closed, although your name will no longer be displayed alongside the
+post, unless you ask for its deletion. You are responsible for the personal information that you choose
+to post in community spaces through the Services. You can set your privacy preferences and download
+your data in your community settings, and close or delete your community account by submitting a
+request to Leapper.
+9.4Another member may follow your public activity on the Apps to receive updates, such as when you add
+an item to your public interests. You may choose to make certain activities private through your account
+settings. You have the option to block any member with whom you do not wish to share your updates.
+10.If you engage with another member or a non-member using our Services or through the use of
+Leapper’s API, you may receive and determine what to do with certain personal information. Your
+privacy responsibilities, including when you act as an independent data controller (someone who
+decides what personal information to collect and the purpose you use the data for) are laid out in
+the Leapper Terms of Use.
+11.Withdrawing Consent
+
+You can choose to withdraw your consent to our processing of your information and your use of the Services
+at any time by permanently closing and deleting your account through your account settings, or by using
+specific features provided to enable you to withdraw consent, like an email unsubscribe link or your account
+privacy preferences. If your account does not have any open issues such as unpaid bills, unfulfilled orders,
+unresolved cases, or policy violations, you will receive an email with instructions to confirm your deletion
+request. We may be required to retain certain information for legal, regulatory, tax, security, or compliance
+reasons for a limited period of time, after which it will be deleted. This deletion is permanent, and your
+account cannot be reinstated.
+12.Children
+HYPERLINK "Leaper.com/terms_of_use"Leapper’s Terms of Use require all account owners to be at
+least 18 years of age. Minors under 18 years of age and at least 16 years of age are permitted to use Leapper's
+Services only if they have the appropriate permission and direct supervision by the owner of the account (a
+parent or legal guardian). Children under age 16 are not permitted to use Leapper or the Services. You are
+responsible for any and all account activity conducted by a minor on your account.
+13.Storage Duration
+Your personal information (phone number) will only be stored for as long as the Services are ongoing. Upon
+the completion of a reasonable waiting period to ensure that the Services have reached their conclusion, all
+phone numbers and e-mail addresses are purged. Notwithstanding, any individual phone numbers and e-
+mail address shall be purged from every place in which it is stored upon receiving such request from such e-
+mail address.
+14.International Data Transfer
+The Platform is hosted in the cloud by an international service provider and the physical location of any
+personal information stored by the platform is restricted to the U.S. by Google, under the EU-US Privacy
+Shield framework.
+The personal information will be accessed from personnel in Israel. Israel was recognized by the European
+Commission as providing adequate protection to personal information in terms of Chapter V of the GDPR.
+The adequacy decision can be found here:
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32011D0061.
+15.Security
+We design our systems with your security and privacy in mind. We follow generally accepted standards to
+protect the personal information submitted to us, both during transmission and after it is received. We work
+to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software,
+which encrypts information you input.
+We maintain physical, electronic and procedural safeguards in connection with the collection, storage and
+disclosure of your personal information.
+Unfortunately, no method of transmission over the internet or method of electronic storage is 100% secure.
+Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
+Your account information is protected by a password. It is important that you protect against unauthorized
+access to your account and information by choosing your password carefully and by keeping your password
+and computer secure, such as by signing out after using the Services. It is also important for you to protect
+against unauthorized access to your computers, devices, and applications.
+16.Contact
+If you have questions about this Privacy Policy or need to contact us in respect of any subject matter covered
+within this Privacy Policy, please contact us at support@leapper.com.
+17.Updates to this Privacy Policy
+We may update this Privacy Policy at our reasonable discretion and in accordance with the respectively
+applicable laws and regulations. When this occurs, we will change the “Effective Date” listed at the top of
+this Privacy Policy.Other than where we have sought such explicit consent from you, your continued use of
+
+the Apps after we make changes will constitute acceptance of, and agreement to be bound by, those
+changes, so please check this Policy periodically for any updates or changes.
+**
+2019 © Leapper
+Privacy & Terms

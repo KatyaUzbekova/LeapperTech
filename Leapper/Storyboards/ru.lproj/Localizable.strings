@@ -1,0 +1,214 @@
+// RUS
+
+// LiaPrototypeTableViewCell
+"LiaPrototypeTableViewCell.Label" = "Lia\nPersonal Account Manager";
+
+// YairPrototypeCell
+"YairPrototypeCell.Label" = "Yair Schoenfeld\nLeapper Co-Founder";
+
+
+// Settings
+"Settings.Action.Title.DeleteAccount" = "Delete Account";
+"Settings.Action.Body.DeleteAccount" = "Are you sure, that you want to delete account?";
+"Settings.Action.Body.ChangeLanguageToEnglish" = "Change language to English";
+"Settings.Action.Body.ChangeLanguageToHebrew" = "Change language to Hebrew";
+"Settings.Action.Title.Restarting" = "Restarting";
+"Settings.Action.Body.Restarting" = "Please restart the app to apply new settings";
+
+// ApiServices
+"Promotion.Action.ShareInChat" = "Share in сhat";
+"Promotion.Action.UnshareInFeed" = "Unshare in Feed";
+"Promotion.Action.ShareByFeed" = "Share by feed";
+
+// ParticularCharViewController
+"ParticularCharViewController.Label.LastSeenRecently" = "last seen recently";
+
+// LeadContactSelector
+"LeadContactSelector.Action.SendLeads" = "Send leads to\n\n%@";
+"LeadContactSelector.Action.CannotSendTextMessage" = "Cannot Send Text Message";
+"LeadContactSelector.Action.YourDeviceUnableToSendMessages" = "Your device is not able to send text messages.";
+
+"LeadContactSelector.Action.SharingSMSMessage" = "Hi, I thought that you and %@ will be glad to be introduced to each other.\nDownload Leapper for free now and discover only businesses trusted by word of mouth!  %@";
+"LeadContactSelector.Action.SelectAlLeastUser" = "You need to select at least one user.";
+
+// Leads/LeadInformationController
+"LeadInformationController.Action.AddedToContactList" = "Added to contact list";
+"LeadInformationController.Action.UnableToSaveNewContact" = "Unable to save new contact";
+"LeadInformationController.Action.isContactedWithLead" = "I contacted with lead";
+"LeadInformationController.Label.LeadsFrom" = "Leads from";
+"LeadInformationController.Label.SelectionLeadStatus" = "Please Select Lead Status";
+"LeadInformationController.Label.SelectionOfCallBackOption" = "Please Select Callback Option";
+"LeadInformationController.TextTitle.CallBackReminder" = "Leapper Reminder";
+"LeadInformationController.TextBody.CallBackReminderBody" = "You wanted to recall to %@ with mobile number %@";
+
+"Yes" = "Yes";
+"No" = "No";
+"Send" = "Send";
+"Back" = "Back";
+
+// Common/Messenger
+"message" = "Сообщение";
+
+// Registrations/RegistrationClient
+"botRegClientOne" = "Welcome to Leapper. We are very happy to see you with us. Leapper - is the best way to make business only with people trusted by your friends.";
+"botRegClientTwo" = "Lets make it a litle bit personal. What is your name, please?";
+"RegistrationClient.Action.PhotoUpload" = "Please, upload your avatar photo";
+
+
+// LeappMe/LeappmeDialog
+"LeappmeDialog.Text.TextForSharing" = "Hi, at the attached link you would find the business card of %@.\nDownload Leapper for free now and discover only businesses trusted by word of mouth!\n";
+"LeappmeDialog.Label.OnlyBusiness" = "Only business";
+"LeappmeDialog.Label.OnlyPersonal" = "Only personal";
+"LeappmeDialog.Label.BothPersonalBusiness" = "Both personal and business";
+"LeappmeDialog.Label.RadiusAroundMe" = "%@km around me";
+"LeappmeDialog.Label.MaleFemale" = "I need  both male and female leads from %@ to %@ years old";
+"LeappmeDialog.Label.OnlyOneGender" = "I need only %@ leads from %@ to %@ years old";
+
+// Registrations/RegistrationPro
+"botRegProOne" = "Добро пожаловать в Leapper. Мы рады видеть вас с нами. Пожалуйста, ответьте на вопросы регистрации и можете начать пользоваться силой профессиональной репутации. Получите продвижение от ваших счастливых клиентов уже сегодня.";
+"botRegProTwo" = "Давай начнем.. Все ответы появятся в твоем профиле и в карточке пользователя Leapper";
+"botRegProThree" = "Как вас зовут?";
+"botRegProFour"= "Сообщите вашу фамилию, пожалуйста";
+"botRegProFive"="Приятно познакомиться, %@! Какова ваша дата рождения?";
+"botRegProSix" = "%@, пожалуйста, сообщите нам свою ориентацию";
+"botRegProSeven" = "Введите, пожалуйста, ваш email";
+"botRegProEight" = "Пожалуйста, загрузите фотографию для вашего профиля";
+"botRegProNine" = "Ваш адрес, пожалуйста";
+"sendLoc" = "Отправьте пожалуйста свое местоположение";
+"Done" = "Готово";
+"finishReg" = "Великолепно! Спасибо, что зарегистрировались в нашем сервисе.";
+"male" = "Мужчина";
+"female" = "Женщина";
+"RegistrationPro.GreatAsAFinalStep" = "Great!\nAs a final step, please read and approve our agreement.";
+"RegistrationPro.NotAValidEmail" = "Not valid email.";
+
+// Registrations/PortfolioReg
+
+"botPortTwo" = "What is your profession or business name? (How would you like other people to consider you? e.g: “Insurance agent” or “John Optics ltd.”)";
+"botPortOne" = "Nice to meet you, %@. I am Lia and I am a personal account manager. 2 steps and your Leapper profile is set.";
+"botPortThree" = "Great! now, please write a few sentences about your business: What do you do best? What is the unique added value that you offer to your clients? (no worries, you can always edit everything...) 🙂";
+"botPortFour" = "Done! Let’s finish with some good photos of your business activities. (Remember, people like to see results, testimonials and...smiling faces!)";
+"PortfolioReg.chose1Image" = "You chose 1 image";
+"PortfolioReg.choseSomeImages" = "You chose %@ images";
+"PortfolioReg.Label.ThankYouUpdating" = "Thank you for updating your information!";
+"PortfolioReg.Label.Finish" = "Finish";
+
+
+
+// ThankYouOne
+"ThankYouOne.Label.ThankYouForSharing" = "Спасибо, что поделились мной. Вы также можете раздать лиды";
+
+
+
+//Storyboard Locals
+"n_o_action" = "NAME OF THE ACTION";
+"description" = "DESCRIPTION";
+"a_o_discount" = "AMOUNT OF DISCOUNT";
+"d_prom_w" = "Are you sure you want to delete this promotion?";
+"yes_del" = "Yes, delete";
+"shake_inf" = "Shake your phone to choose randomly";
+"laep" = "Leapp";
+"leap_inf" = "Number of leapps sent";
+"thanks" = "Thanks";
+"thank_inf" = "Number of leapps received";
+"comm" = "Community";
+"comm_inf" = "People who follow your activity";
+"verified" = "Verified";
+"ver_inf" = "A professional who is recommended more than 100 people";
+"recommended" = "Recommended";
+
+
+//FEEDS texts
+"client_text_mock_feed_title" = "Welcome to your personal feed on Leapper";
+"client_text_mock_feed" = "Every time you’ll visit here, you will be updated about interesting promotions and news from your suppliers and friends. Be ready for fun surprises!\n\nThe best way to get started the is to find and recommend businesses you already used and enjoyed!\nKarma is a great thing, you will see how it works for you if you pay it forward!";
+
+"pro_feed_title_first_post_title" = "Welcome to your personal feed on Leapper";
+"pro_feed_title_first_post_feed" = "We will try to suprise you with different updates and promotions designed especially for you. To get started the best way is to find and recommend businesses you already used and enjoyed! Karma is a great thing, you will see how it works for you if you pay it forward!";
+"recommended_on_leapper" = "Recommended on Leapper";
+"leapper_team" = "Leapper Team";
+"pro_feed_title_second_post_title" = "Your Leapper profile is ready and you can see it here: ";
+"pro_feed_title_second_post_second" = "\nShare it with your contacts pressing the";
+"finish_registration_label_feed" = "Finish Registration";
+
+"FeedPromoTableViewCell.Action.SharedPromotion" = "Shared promotion";
+"FeedPromoTableViewCell.Action.InterestedPromotion" = "I am interested";
+"FeedPromoTableViewCell.Text.TextForSharing" = "Hi,\nHere is an interesting promotion for you!\n\n%@\n\n%@\n\n%@ discount\n\n%@\nLink to business card: https://leapper.com/a/pro/%@\n\nDownload Leapper for free now and discover only businesses trusted by word of mouth!";
+
+"FeedUsualTableViewCell.Action.CheckLeads" = "Click to see leads";
+"FeedUsualTableViewCell.Action.CheckServicesUsers" = "Click to see who used the services";
+
+"FeedCells.Label.ShareFeed" = "Share";
+"FeedCells.Label.New" = "NEW";
+"FeedCells.Label.RecommendedYouOnLeapper" = "Recommended you on Leapper";
+"FeedCells.Label.RecommendedOnLeapper" = "Recommended on Leapper";
+"FeedCells.Label.RecommendedYouOn" = "Recommended you on %@";
+"FeedCells.Label.RecommendedOn" = "Recommended on %@";
+"ReusableFuncation.Label.LocationNotDefined" = "location not defined";
+
+"LeadView.Label.LeadTitle" = "Leads from user";
+"LeadView.Label.LeadsFrom" = "Leads from %@";
+
+"Toast.Message.Error" = "Something went wrong, try again";
+"Favorites.Action.NoFavYet" = "No favorites yet";
+"Favorites.Action.PromoText" = "You will get your favourites when you will make leapps";
+"Favorites.Action.GoToProfile" = "Go to profile";
+
+"Promotions.Action.Edit" = "Edit";
+"Promotions.Action.PromotionDelete" = "Promotions.Action.PromotionDelete";
+
+"Promotions.Action.YesReturn" = "Yes, delete";
+"Promotions.Action.NoReturn" = "No, return";
+
+// MenuBar
+"MenuBar.Text.MessageBody" = "Write us about your issue";
+"MenuBar.Text.MessageTitle" = "Multi client email support";
+"MenuBar.Text.ErrorEmail1" = "Cannot Send Email Message";
+"MenuBar.Text.ErrorEmail2" = "You need to install message app or write to leappertech@gmail.com";
+"MenuBar.Text.OK" = "OK";
+
+"MenuBar.Text.ShareText" = "Hi,\nI am assisted by Leapper and enjoy it very much!\nDownload Leapper for free now and discover only businesses trusted by word of mouth!\n";
+"MenuBar.Button.BecomePro" = "Become Pro";
+"MenuBar.Button.Subscription" = "Subscription";
+"MenuBar.Button.Unavailable" = "Unavailable";
+"MenuBar.Button.PremiumAccount" = "You already have premium account";
+
+"Ok" = "Ok";
+"Birthdays" = "Birthdays";
+
+"PromotionAddOrEdit.Action.ChangeSelection" = "Change selection";
+
+"Purchases.ActionRemainder" = "You need to purchase to have an access to this page";
+"Purchases.Purchase" = "Purchases";
+"Toast.Message.InvalidPhoneError" = "Invalid phone error";
+"Toast.Message.AllowAccessToContacts" = "Please allow the app to access your contacts through the Settings.";
+"Toast.Message.WrongCodeFromSMS" = "Wrong code from sms";
+"Toast.Message.CheckInternetConnection" = "Please, check the connection and retry later";
+
+"QrReaderController.Action.SharingText" = "Hi, for your convenience attached is my business card. Download Leapper for free now and discover only businesses trusted by word of mouth!\n%@";
+
+// MessengerViewController
+"MessengerViewController.Action.PromoWillBeSoon" = "PROMOTION WILL BE SOON";
+"MessengerViewController.Action.Delete" = "Delete";
+"MessengerViewController.Action.MuteChat" = "Mute chat";
+
+// ChatMessageCell
+"ChatMessageCell.Agreement" = "Agreement";
+"ChatMessageCell.Agree" = "Agree";
+"ChatMessageCell.SharedPromotion" = "shared promotion";
+
+"Action.Cancel" = "Cancel";
+
+// ProfileViewPro
+"ProfileViewPro.Label.ProfessionNotDefined" = "profession not defined";
+"ProfileViewPro.Label.LeappYourself" = "You can not leapp yourself";
+"ProfileViewPro.Action.SaveContact" = "Unable to save the new contact.";
+"ProfileViewPro.Action.AddedContact" = "Added to contacts list";
+"ProfileViewPro.Text.LeadQualificationText" = "Please, give me leads 1500 km around me.\nI need %@.\nI need leads from %@ to %@ years old";
+
+"Leapper.LeapperUser" =  "Leapper User";
+"Leapper.Client" = "Client";
+"Leapper.MutualsCount" = " mutuals";
+
+
+// SearchViewFullLeapper
+"SearchViewFullLeapper.Action.NoResults" = "No Results";

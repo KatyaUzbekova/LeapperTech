@@ -1,0 +1,639 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0JR-Hl-lMC"; */
+"0JR-Hl-lMC.text" = "0";
+
+/* Class = "UILabel"; text = "Others"; ObjectID = "0N1-yZ-fvS"; */
+"0N1-yZ-fvS.text" = "Others";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0wp-70-iEM"; */
+"0wp-70-iEM.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "App language"; ObjectID = "1U6-Tm-ncF"; */
+"1U6-Tm-ncF.normalTitle" = "App language";
+
+/* Class = "UILabel"; text = "......"; ObjectID = "29L-Pi-v6W"; */
+"29L-Pi-v6W.text" = "......";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "2Jx-ri-5gi"; */
+"2Jx-ri-5gi.text" = "...";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2g8-6c-4SM"; */
+"2g8-6c-4SM.title" = "Settings";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "2t0-DR-sem"; */
+"2t0-DR-sem.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "36L-gy-zEG"; */
+"36L-gy-zEG.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "3dE-23-HCZ"; */
+"3dE-23-HCZ.normalTitle" = "See all";
+
+/* Class = "UIButton"; normalTitle = "Upload your profile picture?"; ObjectID = "3dS-9t-Go9"; */
+"3dS-9t-Go9.normalTitle" = "Upload your profile picture?";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "3l6-uA-RmF"; */
+"3l6-uA-RmF.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "About Leapper"; ObjectID = "3ug-5d-RLy"; */
+"3ug-5d-RLy.normalTitle" = "About Leapper";
+
+/* Class = "UILabel"; text = "Portfolio"; ObjectID = "4BC-Po-Qyt"; */
+"4BC-Po-Qyt.text" = "Portfolio";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "4QP-Jl-VKD"; */
+"4QP-Jl-VKD.text" = "Chat";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "4TZ-OZ-frW"; */
+"4TZ-OZ-frW.text" = "0";
+
+/* Class = "UILabel"; text = "Number of leapps sent"; ObjectID = "4XF-z3-HNV"; */
+"4XF-z3-HNV.text" = "Number of leapps sent";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "4eR-rV-0ry"; */
+"4eR-rV-0ry.text" = "Email";
+
+/* Class = "UILabel"; text = "Who used this business"; ObjectID = "4sp-0e-Apm"; */
+"4sp-0e-Apm.text" = "Who used this business";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "5FK-Bz-lxY"; */
+"5FK-Bz-lxY.text" = "Registration";
+
+/* Class = "UILabel"; text = "....."; ObjectID = "5He-a7-NXH"; */
+"5He-a7-NXH.text" = ".....";
+
+/* Class = "UINavigationItem"; title = "Lead qualification"; ObjectID = "5cp-50-Wzk"; */
+"5cp-50-Wzk.title" = "Lead qualification";
+
+/* Class = "UITextField"; placeholder = "Age from"; ObjectID = "5fL-NQ-An0"; */
+"5fL-NQ-An0.placeholder" = "Age from";
+
+/* Class = "UILabel"; text = "Number of leapps received"; ObjectID = "63B-uN-mbS"; */
+"63B-uN-mbS.text" = "Number of leapps received";
+
+/* Class = "UINavigationItem"; title = "Leads"; ObjectID = "64E-Wf-uuE"; */
+"64E-Wf-uuE.title" = "Leads";
+
+/* Class = "UILabel"; text = "Shake your phone to choose randomly"; ObjectID = "6Do-ik-dex"; */
+"6Do-ik-dex.text" = "Shake your phone to choose randomly";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6PE-ZB-Co5"; */
+"6PE-ZB-Co5.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6UZ-R8-GDF"; */
+"6UZ-R8-GDF.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "6i3-vU-CfK"; */
+"6i3-vU-CfK.normalTitle" = "Back";
+
+/* Class = "UINavigationItem"; title = "Professional Service"; ObjectID = "6lg-5G-LOA"; */
+"6lg-5G-LOA.title" = "Professional Service";
+
+/* Class = "UILabel"; text = "EXTRA NOTE"; ObjectID = "6z4-7d-Lda"; */
+"6z4-7d-Lda.text" = "EXTRA NOTE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7CH-nF-UvX"; */
+"7CH-nF-UvX.text" = "Label";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "7kH-Rj-5HJ"; */
+"7kH-Rj-5HJ.text" = "Downloading....";
+
+/* Class = "UIButton"; normalTitle = "Subscriptions"; ObjectID = "7zA-PR-WLl"; */
+"7zA-PR-WLl.normalTitle" = "Subscriptions";
+
+/* Class = "UILabel"; text = "Lead qualification"; ObjectID = "87W-8O-Atz"; */
+"87W-8O-Atz.text" = "Lead qualification";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8cp-jL-Wbn"; */
+"8cp-jL-Wbn.text" = "Label";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "8f0-GP-yQc"; */
+"8f0-GP-yQc.text" = "...";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "9tN-ny-HXq"; */
+"9tN-ny-HXq.text" = "...";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "AGM-0v-rY6"; */
+"AGM-0v-rY6.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "BGl-Db-Bfb"; */
+"BGl-Db-Bfb.text" = "Amount";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "BWg-ah-C4G"; */
+"BWg-ah-C4G.text" = "Registration";
+
+/* Class = "UIButton"; normalTitle = "Give leads"; ObjectID = "Bdp-Y9-SO2"; */
+"Bdp-Y9-SO2.normalTitle" = "Give leads";
+
+/* Class = "UILabel"; text = "GENDER"; ObjectID = "COg-UG-o3W"; */
+"COg-UG-o3W.text" = "GENDER";
+
+/* Class = "UISegmentedControl"; CQD-Bb-LzE.segmentTitles[0] = "MALE"; ObjectID = "CQD-Bb-LzE"; */
+"CQD-Bb-LzE.segmentTitles[0]" = "MALE";
+
+/* Class = "UISegmentedControl"; CQD-Bb-LzE.segmentTitles[1] = "FEMALE"; ObjectID = "CQD-Bb-LzE"; */
+"CQD-Bb-LzE.segmentTitles[1]" = "FEMALE";
+
+/* Class = "UISegmentedControl"; CQD-Bb-LzE.segmentTitles[2] = "BOTH"; ObjectID = "CQD-Bb-LzE"; */
+"CQD-Bb-LzE.segmentTitles[2]" = "BOTH";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "ChI-L2-ig6"; */
+"ChI-L2-ig6.text" = "...";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "Cl8-fj-heK"; */
+"Cl8-fj-heK.normalTitle" = "Male";
+
+/* Class = "UILabel"; text = "Downloading.."; ObjectID = "DHk-3I-Vvw"; */
+"DHk-3I-Vvw.text" = "Downloading..";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Dbb-e1-eOh"; */
+"Dbb-e1-eOh.title" = "Close";
+
+/* Class = "UILabel"; text = "AGE"; ObjectID = "DjZ-nP-rMR"; */
+"DjZ-nP-rMR.text" = "AGE";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "Dkn-1L-fjJ"; */
+"Dkn-1L-fjJ.text" = "Client";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Eeb-AM-Bds"; */
+"Eeb-AM-Bds.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "FIe-Kp-RPg"; */
+"FIe-Kp-RPg.text" = "Promotions";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "FQC-5i-FJ4"; */
+"FQC-5i-FJ4.text" = "100";
+
+/* Class = "UILabel"; text = "Leapp"; ObjectID = "FtE-zu-r8y"; */
+"FtE-zu-r8y.text" = "Leapp";
+
+/* Class = "UIButton"; normalTitle = "Notifications"; ObjectID = "FxT-fp-Wc4"; */
+"FxT-fp-Wc4.normalTitle" = "Notifications";
+
+/* Class = "UITextField"; placeholder = "Profession name"; ObjectID = "G06-Wj-5Gx"; */
+"G06-Wj-5Gx.placeholder" = "Profession name";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "GNi-dt-IVU"; */
+"GNi-dt-IVU.title" = "Close";
+
+/* Class = "UILabel"; text = "My card"; ObjectID = "GcJ-ly-bCF"; */
+"GcJ-ly-bCF.text" = "My card";
+
+/* Class = "UIButton"; normalTitle = "   Share"; ObjectID = "IE6-p3-1pS"; */
+"IE6-p3-1pS.normalTitle" = "   Share";
+
+/* Class = "UILabel"; text = "... ...."; ObjectID = "IjX-1l-gwI"; */
+"IjX-1l-gwI.text" = "... ....";
+
+/* Class = "UILabel"; text = "Professionals"; ObjectID = "Ivr-Hm-Vl8"; */
+"Ivr-Hm-Vl8.text" = "Professionals";
+
+/* Class = "UILabel"; text = "ENTER SMS CODE"; ObjectID = "Izm-CY-nV8"; */
+"Izm-CY-nV8.text" = "ENTER SMS CODE";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "J3c-Ga-LwF"; */
+"J3c-Ga-LwF.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "JDa-zh-UAH"; */
+"JDa-zh-UAH.text" = "Phone";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "JXw-oR-zSQ"; */
+"JXw-oR-zSQ.normalTitle" = "Change";
+
+/* Class = "UIButton"; normalTitle = "Agreement"; ObjectID = "Jkh-Ok-oJd"; */
+"Jkh-Ok-oJd.normalTitle" = "Agreement";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "KN2-6r-T12"; */
+"KN2-6r-T12.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "KOc-Ae-DRV"; */
+"KOc-Ae-DRV.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Kmg-QP-hkT"; */
+"Kmg-QP-hkT.text" = "0";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "KqB-AA-AZh"; */
+"KqB-AA-AZh.text" = "Address";
+
+/* Class = "UILabel"; text = "."; ObjectID = "Kxh-TU-uI9"; */
+"Kxh-TU-uI9.text" = ".";
+
+/* Class = "UILabel"; text = "."; ObjectID = "LCx-VG-ZQl"; */
+"LCx-VG-ZQl.text" = ".";
+
+/* Class = "UITabBarItem"; title = "CLIENTS"; ObjectID = "LWx-Oh-yoN"; */
+"LWx-Oh-yoN.title" = "CLIENTS";
+
+/* Class = "UINavigationItem"; title = "Edit Portfolio"; ObjectID = "LtG-1r-yjM"; */
+"LtG-1r-yjM.title" = "Edit Portfolio";
+
+/* Class = "UIButton"; normalTitle = "Exit"; ObjectID = "Luw-QI-ibK"; */
+"Luw-QI-ibK.normalTitle" = "Exit";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "N58-Ly-DRV"; */
+"N58-Ly-DRV.normalTitle" = "Change";
+
+/* Class = "UIButton"; normalTitle = "I'm interested"; ObjectID = "Ngt-tW-kse"; */
+"Ngt-tW-kse.normalTitle" = "I'm interested";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ni7-zN-khO"; */
+"Ni7-zN-khO.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Nmq-nj-hhL"; */
+"Nmq-nj-hhL.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Promotions"; ObjectID = "OMt-QG-dIl"; */
+"OMt-QG-dIl.title" = "Promotions";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "Ocv-Qp-gbd"; */
+"Ocv-Qp-gbd.text" = "...";
+
+/* Class = "UILabel"; text = "YOUR PHONE NUMBER"; ObjectID = "P5A-tX-DkA"; */
+"P5A-tX-DkA.text" = "YOUR PHONE NUMBER";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "P5U-mp-Jbb"; */
+"P5U-mp-Jbb.text" = "0";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "P7e-3C-zRU"; */
+"P7e-3C-zRU.text" = "...";
+
+/* Class = "UITextField"; placeholder = "up to"; ObjectID = "PsJ-8E-wub"; */
+"PsJ-8E-wub.placeholder" = "up to";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Q4c-aj-d8l"; */
+"Q4c-aj-d8l.title" = "Back";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "QTK-Iz-kfj"; */
+"QTK-Iz-kfj.text" = "0";
+
+/* Class = "UILabel"; text = "Others"; ObjectID = "QWj-8g-OIS"; */
+"QWj-8g-OIS.text" = "Others";
+
+/* Class = "UILabel"; text = "Portfolio"; ObjectID = "QYy-Hl-jDe"; */
+"QYy-Hl-jDe.text" = "Portfolio";
+
+/* Class = "UILabel"; text = "About me text field"; ObjectID = "QfH-dq-EQk"; */
+"QfH-dq-EQk.text" = "About me text field";
+
+/* Class = "UILabel"; text = "Recommend to Friends"; ObjectID = "Qq2-QF-Kas"; */
+"Qq2-QF-Kas.text" = "Recommend to Friends";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "Qvx-N5-YuF"; */
+"Qvx-N5-YuF.normalTitle" = "Share";
+
+/* Class = "UILabel"; text = "Last name"; ObjectID = "RV5-Vy-n9g"; */
+"RV5-Vy-n9g.text" = "Last name";
+
+/* Class = "UIButton"; normalTitle = "Upload your profile picture?"; ObjectID = "Rmb-gY-2oU"; */
+"Rmb-gY-2oU.normalTitle" = "Upload your profile picture?";
+
+/* Class = "UITabBarItem"; title = "LEADS"; ObjectID = "Roe-Tj-0pN"; */
+"Roe-Tj-0pN.title" = "LEADS";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "RwE-n2-6mn"; */
+"RwE-n2-6mn.title" = "Close";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "Ry7-La-sQf"; */
+"Ry7-La-sQf.title" = "Menu";
+
+/* Class = "UITextField"; placeholder = "_ _ _ _ _ _"; ObjectID = "Scg-9M-QbT"; */
+"Scg-9M-QbT.placeholder" = "_ _ _ _ _ _";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "SyE-Pa-R6U"; */
+"SyE-Pa-R6U.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Tq8-Gp-Rv3"; */
+"Tq8-Gp-Rv3.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Tags"; ObjectID = "UDk-Ab-5LG"; */
+"UDk-Ab-5LG.text" = "Tags";
+
+/* Class = "UILabel"; text = "Mutuals"; ObjectID = "UV7-Oj-0Nq"; */
+"UV7-Oj-0Nq.text" = "Mutuals";
+
+/* Class = "UITabBarItem"; title = "COMMUNITY"; ObjectID = "Ui6-N0-HLV"; */
+"Ui6-N0-HLV.title" = "COMMUNITY";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "VXy-zZ-oNo"; */
+"VXy-zZ-oNo.text" = "time";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "Vm4-Ua-gzj"; */
+"Vm4-Ua-gzj.text" = "Downloading....";
+
+/* Class = "UILabel"; text = "Professional"; ObjectID = "WJe-1W-Ynh"; */
+"WJe-1W-Ynh.text" = "Professional";
+
+/* Class = "UIButton"; normalTitle = "EDIT PROFILE"; ObjectID = "WNy-Cz-Rl9"; */
+"WNy-Cz-Rl9.normalTitle" = "EDIT PROFILE";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "WZJ-tQ-nCr"; */
+"WZJ-tQ-nCr.text" = "0";
+
+/* Class = "UILabel"; text = "Statistics"; ObjectID = "X0h-IO-KDF"; */
+"X0h-IO-KDF.text" = "Statistics";
+
+/* Class = "UIButton"; normalTitle = "Invite via WhatsApp"; ObjectID = "Xcc-ah-MP8"; */
+"Xcc-ah-MP8.normalTitle" = "Invite via WhatsApp";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "XsE-dr-ocN"; */
+"XsE-dr-ocN.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Change profile"; ObjectID = "Y25-I1-vOc"; */
+"Y25-I1-vOc.normalTitle" = "Change profile";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "YnI-Rg-SIg"; */
+"YnI-Rg-SIg.text" = "Birthday";
+
+/* Class = "UILabel"; text = "Navigation"; ObjectID = "Ynu-iL-fLY"; */
+"Ynu-iL-fLY.text" = "Navigation";
+
+/* Class = "UILabel"; text = "Tap to save your location"; ObjectID = "ZGj-wh-Ynz"; */
+"ZGj-wh-Ynz.text" = "Tap to save your location";
+
+/* Class = "UISearchBar"; placeholder = "Search in Leapper"; ObjectID = "ZQ8-oO-aPb"; */
+"ZQ8-oO-aPb.placeholder" = "Search in Leapper";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "aam-4B-ob7"; */
+"aam-4B-ob7.title" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "akJ-lc-fX2"; */
+"akJ-lc-fX2.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "anQ-0M-XEK"; */
+"anQ-0M-XEK.text" = "0";
+
+/* Class = "UILabel"; text = "."; ObjectID = "ayr-uW-fKm"; */
+"ayr-uW-fKm.text" = ".";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "bIM-8U-jjq"; */
+"bIM-8U-jjq.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "Invite via SMS"; ObjectID = "bJq-IH-tKQ"; */
+"bJq-IH-tKQ.normalTitle" = "Invite via SMS";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "bYG-aD-JIW"; */
+"bYG-aD-JIW.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Downloading..."; ObjectID = "bg9-DP-U4t"; */
+"bg9-DP-U4t.text" = "Downloading...";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "bh8-Wg-Fg2"; */
+"bh8-Wg-Fg2.normalTitle" = "Female";
+
+/* Class = "UILabel"; text = "Verified user"; ObjectID = "bu8-gU-P4O"; */
+"bu8-gU-P4O.text" = "Verified user";
+
+/* Class = "UINavigationItem"; title = "What does icons mean?"; ObjectID = "cPE-Ic-KEX"; */
+"cPE-Ic-KEX.title" = "What does icons mean?";
+
+/* Class = "UILabel"; text = "Professions"; ObjectID = "ckH-dU-c4b"; */
+"ckH-dU-c4b.text" = "Professions";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "dRA-kB-6b1"; */
+"dRA-kB-6b1.text" = "Downloading....";
+
+/* Class = "UILabel"; text = "Porfolio photos"; ObjectID = "deA-Eu-T0W"; */
+"deA-Eu-T0W.text" = "Porfolio photos";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dzc-Rn-mPU"; */
+"dzc-Rn-mPU.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "e8a-KP-vld"; */
+"e8a-KP-vld.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eBf-tn-2qn"; */
+"eBf-tn-2qn.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Client"; ObjectID = "eL2-hM-APa"; */
+"eL2-hM-APa.title" = "Client";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "enf-o2-aua"; */
+"enf-o2-aua.text" = "DESCRIPTION";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "f4F-dX-6Pf"; */
+"f4F-dX-6Pf.text" = "...";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "fe4-Ty-iQi"; */
+"fe4-Ty-iQi.text" = "Email";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fiv-Ww-l40"; */
+"fiv-Ww-l40.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "fll-ol-JIC"; */
+"fll-ol-JIC.title" = "Close";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "gNi-y1-09S"; */
+"gNi-y1-09S.text" = "...";
+
+/* Class = "UILabel"; text = "Lead qualification text field"; ObjectID = "gT7-Wj-ZgW"; */
+"gT7-Wj-ZgW.text" = "Lead qualification text field";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "gkc-HH-k2w"; */
+"gkc-HH-k2w.title" = "Back";
+
+/* Class = "UILabel"; text = "LOCATION UP TO RADIUS"; ObjectID = "grF-xF-qHx"; */
+"grF-xF-qHx.text" = "LOCATION UP TO RADIUS";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h9W-9i-KAy"; */
+"h9W-9i-KAy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Thank you!"; ObjectID = "h9v-kq-77l"; */
+"h9v-kq-77l.text" = "Thank you!";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "i9E-PB-FQ8"; */
+"i9E-PB-FQ8.text" = "Favorites";
+
+/* Class = "UISegmentedControl"; iMX-UO-28S.segmentTitles[0] = "CITY AND SURROUNDINGS"; ObjectID = "iMX-UO-28S"; */
+"iMX-UO-28S.segmentTitles[0]" = "CITY AND SURROUNDINGS";
+
+/* Class = "UISegmentedControl"; iMX-UO-28S.segmentTitles[1] = "REGION"; ObjectID = "iMX-UO-28S"; */
+"iMX-UO-28S.segmentTitles[1]" = "REGION";
+
+/* Class = "UISegmentedControl"; iMX-UO-28S.segmentTitles[2] = "ALL AROUND THE COUNTRY"; ObjectID = "iMX-UO-28S"; */
+"iMX-UO-28S.segmentTitles[2]" = "ALL AROUND THE COUNTRY";
+
+/* Class = "UISegmentedControl"; iMX-UO-28S.segmentTitles[3] = "GLOBAL"; ObjectID = "iMX-UO-28S"; */
+"iMX-UO-28S.segmentTitles[3]" = "GLOBAL";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ifp-9J-shq"; */
+"ifp-9J-shq.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "j0J-Uu-fdv"; */
+"j0J-Uu-fdv.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "   Settings"; ObjectID = "j7U-RP-3sh"; */
+"j7U-RP-3sh.normalTitle" = "   Settings";
+
+/* Class = "UILabel"; text = "Choose your account type"; ObjectID = "jFZ-xv-dw2"; */
+"jFZ-xv-dw2.text" = "Choose your account type";
+
+/* Class = "UILabel"; text = "About me"; ObjectID = "jG2-Yl-lQP"; */
+"jG2-Yl-lQP.text" = "About me";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jY0-Lp-iWj"; */
+"jY0-Lp-iWj.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "jlO-wS-meX"; */
+"jlO-wS-meX.text" = "Website";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ju8-WD-q89"; */
+"ju8-WD-q89.text" = "0";
+
+/* Class = "UILabel"; text = "People who follow your activity"; ObjectID = "kFo-Qg-nQC"; */
+"kFo-Qg-nQC.text" = "People who follow your activity";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kY2-uD-YYn"; */
+"kY2-uD-YYn.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "koi-z6-qeZ"; */
+"koi-z6-qeZ.title" = "Save";
+
+/* Class = "UILabel"; text = "Portfolio"; ObjectID = "md0-LD-aug"; */
+"md0-LD-aug.text" = "Portfolio";
+
+/* Class = "UILabel"; text = "LEAD TYPE"; ObjectID = "n0J-dO-Bah"; */
+"n0J-dO-Bah.text" = "LEAD TYPE";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "nap-ZH-Vyy"; */
+"nap-ZH-Vyy.normalTitle" = "Sign in";
+
+/* Class = "UILabel"; text = "Verified"; ObjectID = "ng1-6r-Gis"; */
+"ng1-6r-Gis.text" = "Verified";
+
+/* Class = "UILabel"; text = "Mutuals"; ObjectID = "oDt-tR-Ld3"; */
+"oDt-tR-Ld3.text" = "Mutuals";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "oQw-qf-tZp"; */
+"oQw-qf-tZp.text" = "Promotions";
+
+/* Class = "UILabel"; text = "Amount of discount"; ObjectID = "oaR-XB-mJL"; */
+"oaR-XB-mJL.text" = "AMOUNT OF DISCOUNT";
+
+/* Class = "UIButton"; normalTitle = "Delete profile"; ObjectID = "okr-uv-mus"; */
+"okr-uv-mus.normalTitle" = "Delete profile";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "opw-CE-XhB"; */
+"opw-CE-XhB.text" = "Downloading....";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "p6W-ay-bNz"; */
+"p6W-ay-bNz.title" = "Close";
+
+/* Class = "UINavigationItem"; title = "Edit profile"; ObjectID = "p7O-9m-Fxb"; */
+"p7O-9m-Fxb.title" = "Edit profile";
+
+/* Class = "UITextView"; text = "Leave extra note"; ObjectID = "pKQ-yA-MPr"; */
+"pKQ-yA-MPr.text" = "Leave extra note";
+
+/* Class = "UIButton"; normalTitle = "Add promotion"; ObjectID = "pSo-gv-TfR"; */
+"pSo-gv-TfR.normalTitle" = "Add promotion";
+
+/* Class = "UILabel"; text = "Welcome to Leapper"; ObjectID = "pbP-2s-E5o"; */
+"pbP-2s-E5o.text" = "Welcome to Leapper";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "qEp-mA-Qfj"; */
+"qEp-mA-Qfj.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Name of Action"; ObjectID = "qg0-D6-c0I"; */
+"qg0-D6-c0I.text" = "NAME OF THE ACTION";
+
+/* Class = "UILabel"; text = "Community"; ObjectID = "qwV-XY-5Y7"; */
+"qwV-XY-5Y7.text" = "Community";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "rSp-lh-CQo"; */
+"rSp-lh-CQo.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "rfG-wa-MeU"; */
+"rfG-wa-MeU.text" = "0";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "rlv-lR-i0i"; */
+"rlv-lR-i0i.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "sZu-DJ-ML7"; */
+"sZu-DJ-ML7.normalTitle" = "Share";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "sag-ny-8DQ"; */
+"sag-ny-8DQ.title" = "Favorites";
+
+/* Class = "UILabel"; text = "."; ObjectID = "sal-9Z-aP9"; */
+"sal-9Z-aP9.text" = ".";
+
+/* Class = "UILabel"; text = "ENTER A PHONE NUMBER"; ObjectID = "sg7-uh-ZWn"; */
+"sg7-uh-ZWn.text" = "ENTER A PHONE NUMBER";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "svc-jJ-MnA"; */
+"svc-jJ-MnA.normalTitle" = "Close";
+
+/* Class = "UISegmentedControl"; t1K-pU-ZHX.segmentTitles[0] = "BUSINESS"; ObjectID = "t1K-pU-ZHX"; */
+"t1K-pU-ZHX.segmentTitles[0]" = "BUSINESS";
+
+/* Class = "UISegmentedControl"; t1K-pU-ZHX.segmentTitles[1] = "PERSONAL"; ObjectID = "t1K-pU-ZHX"; */
+"t1K-pU-ZHX.segmentTitles[1]" = "PERSONAL";
+
+/* Class = "UISegmentedControl"; t1K-pU-ZHX.segmentTitles[2] = "BOTH"; ObjectID = "t1K-pU-ZHX"; */
+"t1K-pU-ZHX.segmentTitles[2]" = "BOTH";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tSg-xK-1Di"; */
+"tSg-xK-1Di.text" = "Label";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "tpA-R1-Aub"; */
+"tpA-R1-Aub.text" = "Downloading....";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "tsz-ef-pqU"; */
+"tsz-ef-pqU.text" = "0";
+
+/* Class = "UILabel"; text = "Adress"; ObjectID = "ttZ-cV-LKl"; */
+"ttZ-cV-LKl.text" = "Adress";
+
+/* Class = "UIButton"; normalTitle = "Upload photo"; ObjectID = "u4v-90-r2D"; */
+"u4v-90-r2D.normalTitle" = "Upload photo";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "uka-V8-jia"; */
+"uka-V8-jia.text" = "Client";
+
+/* Class = "UILabel"; text = "Recommend on Social Networks"; ObjectID = "v7B-Yc-bnX"; */
+"v7B-Yc-bnX.text" = "Recommend on Social Networks";
+
+/* Class = "UILabel"; text = "Tell us more about yourself..."; ObjectID = "vCW-gc-NWL"; */
+"vCW-gc-NWL.text" = "Tell us more about yourself...";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "vkx-em-p7e"; */
+"vkx-em-p7e.text" = "...";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "wDu-PS-a7f"; */
+"wDu-PS-a7f.text" = "Website";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wHh-e5-q24"; */
+"wHh-e5-q24.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Promotions"; ObjectID = "wLL-fn-2rC"; */
+"wLL-fn-2rC.title" = "Promotions";
+
+/* Class = "UILabel"; text = "0 mutual favorites"; ObjectID = "wwA-b3-zhS"; */
+"wwA-b3-zhS.text" = "0 mutual favorites";
+
+/* Class = "UILabel"; text = "Thanks"; ObjectID = "x35-l4-Bud"; */
+"x35-l4-Bud.text" = "Thanks";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "xKs-ji-zB7"; */
+"xKs-ji-zB7.title" = "Close";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "xMI-LG-YF4"; */
+"xMI-LG-YF4.title" = "Back";
+
+/* Class = "UILabel"; text = "Profession"; ObjectID = "y08-W7-AFB"; */
+"y08-W7-AFB.text" = "Profession";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "yQr-AC-mf2"; */
+"yQr-AC-mf2.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "z4K-bv-udl"; */
+"z4K-bv-udl.text" = "Downloading....";
+
+/* Class = "UIBarButtonItem"; title = "Show"; ObjectID = "z9w-2B-JeR"; */
+"z9w-2B-JeR.title" = "Show";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "zJE-Kv-HYW"; */
+"zJE-Kv-HYW.title" = "Back";
+
+/* Class = "UILabel"; text = "Fullname"; ObjectID = "zUY-zt-1DQ"; */
+"zUY-zt-1DQ.text" = "Fullname";

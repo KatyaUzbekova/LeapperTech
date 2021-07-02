@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D80" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Feed" representedClassName=".Feed" syncable="YES" codeGenerationType="class">
+        <attribute name="fullname" attributeType="String"/>
+        <attribute name="idWho" attributeType="String"/>
+        <attribute name="idWhom" attributeType="String"/>
+        <attribute name="isWhoAvatar" optional="YES" attributeType="String"/>
+        <attribute name="isWhomAvatar" optional="YES" attributeType="String"/>
+        <attribute name="photosForSliderView" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="profession" attributeType="String"/>
+        <attribute name="proName" optional="YES" attributeType="String"/>
+        <attribute name="roleWho" optional="YES" attributeType="String"/>
+        <attribute name="roleWhom" optional="YES" attributeType="String"/>
+        <attribute name="socialNetwork" optional="YES" attributeType="String"/>
+        <attribute name="time" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Feed" positionX="-63" positionY="-18" width="128" height="209"/>
+    </elements>
+</model>

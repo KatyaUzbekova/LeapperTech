@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "leads"; ObjectID = "0JR-Hl-lMC"; */
+"0JR-Hl-lMC.text" = "leads";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7kH-Rj-5HJ"; */
+"7kH-Rj-5HJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ChI-L2-ig6"; */
+"ChI-L2-ig6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DHk-3I-Vvw"; */
+"DHk-3I-Vvw.text" = "Label";
+
+/* Class = "UILabel"; text = "ENTER SMS CODE"; ObjectID = "Izm-CY-nV8"; */
+"Izm-CY-nV8.text" = "ENTER SMS CODE";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "J3c-Ga-LwF"; */
+"J3c-Ga-LwF.normalTitle" = "Next";
+
+/* Class = "UITabBarItem"; title = "CLIENTS"; ObjectID = "LWx-Oh-yoN"; */
+"LWx-Oh-yoN.title" = "CLIENTS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ni7-zN-khO"; */
+"Ni7-zN-khO.text" = "Label";
+
+/* Class = "UILabel"; text = "YOUR PHONE NUMBER"; ObjectID = "P5A-tX-DkA"; */
+"P5A-tX-DkA.text" = "YOUR PHONE NUMBER";
+
+/* Class = "UITabBarItem"; title = "LEADS"; ObjectID = "Roe-Tj-0pN"; */
+"Roe-Tj-0pN.title" = "LEADS";
+
+/* Class = "UITextField"; placeholder = "_ _ _ _ _ _"; ObjectID = "Scg-9M-QbT"; */
+"Scg-9M-QbT.placeholder" = "_ _ _ _ _ _";
+
+/* Class = "UITabBarItem"; title = "COMMUNITY"; ObjectID = "Ui6-N0-HLV"; */
+"Ui6-N0-HLV.title" = "COMMUNITY";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vm4-Ua-gzj"; */
+"Vm4-Ua-gzj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bg9-DP-U4t"; */
+"bg9-DP-U4t.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dzc-Rn-mPU"; */
+"dzc-Rn-mPU.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gY9-M1-ugx"; */
+"gY9-M1-ugx.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "nap-ZH-Vyy"; */
+"nap-ZH-Vyy.normalTitle" = "Sign in";
+
+/* Class = "UILabel"; text = "ENTER A PHONE NUMBER"; ObjectID = "sg7-uh-ZWn"; */
+"sg7-uh-ZWn.text" = "ENTER A PHONE NUMBER";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tpA-R1-Aub"; */
+"tpA-R1-Aub.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vkx-em-p7e"; */
+"vkx-em-p7e.text" = "Label";

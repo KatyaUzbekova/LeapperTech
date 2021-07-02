@@ -1,0 +1,693 @@
+
+/* Class = "UILabel"; text = "Others"; ObjectID = "0N1-yZ-fvS"; */
+"0N1-yZ-fvS.text" = "אחרים";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0wp-70-iEM"; */
+"0wp-70-iEM.text" = "0";
+
+/* Class = "UILabel"; text = "......"; ObjectID = "29L-Pi-v6W"; */
+"29L-Pi-v6W.text" = "......";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "2Jx-ri-5gi"; */
+"2Jx-ri-5gi.text" = "...";
+
+/* Class = "UILabel"; text = "Select all"; ObjectID = "2Ph-DD-TeG"; */
+"2Ph-DD-TeG.text" = "בחר הכל";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2g8-6c-4SM"; */
+"2g8-6c-4SM.title" = "הגדרות";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "36L-gy-zEG"; */
+"36L-gy-zEG.normalTitle" = "להציל";
+
+/* Class = "UITextField"; placeholder = "10"; ObjectID = "3Hn-op-Irl"; */
+"3Hn-op-Irl.placeholder" = "10";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "3dE-23-HCZ"; */
+"3dE-23-HCZ.normalTitle" = "ראה הכל";
+
+/* Class = "UIButton"; normalTitle = "Upload your profile picture?"; ObjectID = "3dS-9t-Go9"; */
+"3dS-9t-Go9.normalTitle" = "להעלות את תמונת הפרופיל שלך?";
+
+/* Class = "UILabel"; text = "The amount of invites sent to receive a lead"; ObjectID = "3g9-xb-p3h"; */
+"3g9-xb-p3h.text" = "כמות ההזמנות שנשלחה לקבלת ליד";
+
+/* Class = "UILabel"; text = "Portfolio"; ObjectID = "4BC-Po-Qyt"; */
+"4BC-Po-Qyt.text" = "תיק עבודות";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "4QP-Jl-VKD"; */
+"4QP-Jl-VKD.text" = "לְשׂוֹחֵחַ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "4TZ-OZ-frW"; */
+"4TZ-OZ-frW.text" = "0";
+
+/* Class = "UILabel"; text = "Number of leapps sent"; ObjectID = "4XF-z3-HNV"; */
+"4XF-z3-HNV.text" = "מספר הקפיצות שנשלחו";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "4eR-rV-0ry"; */
+"4eR-rV-0ry.text" = "אימייל";
+
+/* Class = "UILabel"; text = "Who used this business"; ObjectID = "4sp-0e-Apm"; */
+"4sp-0e-Apm.text" = "מי השתמש בעסק הזה";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "5Cs-vk-hQ0"; */
+"5Cs-vk-hQ0.text" = "11";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "5FK-Bz-lxY"; */
+"5FK-Bz-lxY.text" = "הַרשָׁמָה";
+
+/* Class = "UILabel"; text = "....."; ObjectID = "5He-a7-NXH"; */
+"5He-a7-NXH.text" = ".....";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "5UC-6Q-SB2"; */
+"5UC-6Q-SB2.normalTitle" = "חזור";
+
+/* Class = "UINavigationItem"; title = "Lead qualification"; ObjectID = "5cp-50-Wzk"; */
+"5cp-50-Wzk.title" = "הסמכה מובילה";
+
+/* Class = "UITextField"; placeholder = "Age from"; ObjectID = "5fL-NQ-An0"; */
+"5fL-NQ-An0.placeholder" = "גיל מ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5fN-KO-87D"; */
+"5fN-KO-87D.normalTitle" = "לַחְצָן";
+
+/* Class = "UINavigationItem"; title = "Leads"; ObjectID = "64E-Wf-uuE"; */
+"64E-Wf-uuE.title" = "מוביל";
+
+/* Class = "UILabel"; text = "Shake your phone to choose randomly"; ObjectID = "6Do-ik-dex"; */
+"6Do-ik-dex.text" = "נענע את הטלפון שלך כדי לבחור באופן אקראי";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6PE-ZB-Co5"; */
+"6PE-ZB-Co5.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Professional Service"; ObjectID = "6lg-5G-LOA"; */
+"6lg-5G-LOA.title" = "שירות מקצועי";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6oh-Uy-1Db"; */
+"6oh-Uy-1Db.normalTitle" = "לַחְצָן";
+
+/* Class = "UILabel"; text = "EXTRA NOTE"; ObjectID = "6z4-7d-Lda"; */
+"6z4-7d-Lda.text" = "הערה נוספת";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7CH-nF-UvX"; */
+"7CH-nF-UvX.text" = "תווית";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "7kH-Rj-5HJ"; */
+"7kH-Rj-5HJ.text" = "מוריד...";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7rl-ih-Xig"; */
+"7rl-ih-Xig.normalTitle" = "לַחְצָן";
+
+/* Class = "UIButton"; normalTitle = "Subscriptions"; ObjectID = "7zA-PR-WLl"; */
+"7zA-PR-WLl.normalTitle" = "מנויים";
+
+/* Class = "UILabel"; text = "Lead qualification"; ObjectID = "87W-8O-Atz"; */
+"87W-8O-Atz.text" = "הסמכה מובילה";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8cp-jL-Wbn"; */
+"8cp-jL-Wbn.text" = "תווית";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "8f0-GP-yQc"; */
+"8f0-GP-yQc.text" = "...";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "AGM-0v-rY6"; */
+"AGM-0v-rY6.placeholder" = "לחפש";
+
+/* Class = "UIButton"; normalTitle = "Help Me"; ObjectID = "ASu-r8-ba5"; */
+"ASu-r8-ba5.normalTitle" = "תעזור לי";
+
+/* Class = "UILabel"; text = "New leads received"; ObjectID = "Ajw-t0-Lsb"; */
+"Ajw-t0-Lsb.text" = "לידים חדשים התקבלו";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "BGl-Db-Bfb"; */
+"BGl-Db-Bfb.text" = "כמות";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "BWg-ah-C4G"; */
+"BWg-ah-C4G.text" = "הַרשָׁמָה";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "BdP-r4-cGh"; */
+"BdP-r4-cGh.title" = "פריט";
+
+/* Class = "UIButton"; normalTitle = "Give leads"; ObjectID = "Bdp-Y9-SO2"; */
+"Bdp-Y9-SO2.normalTitle" = "תן לידים";
+
+/* Class = "UILabel"; text = "No Results"; ObjectID = "Bpt-ds-SQP"; */
+"Bpt-ds-SQP.text" = "אין תוצאות";
+
+/* Class = "UILabel"; text = "GENDER"; ObjectID = "COg-UG-o3W"; */
+"COg-UG-o3W.text" = "מִין";
+
+/* Class = "UISegmentedControl"; CQD-Bb-LzE.segmentTitles[0] = "MALE"; ObjectID = "CQD-Bb-LzE"; */
+"CQD-Bb-LzE.segmentTitles[0]" = "זָכָר";
+
+/* Class = "UISegmentedControl"; CQD-Bb-LzE.segmentTitles[1] = "FEMALE"; ObjectID = "CQD-Bb-LzE"; */
+"CQD-Bb-LzE.segmentTitles[1]" = "נְקֵבָה";
+
+/* Class = "UISegmentedControl"; CQD-Bb-LzE.segmentTitles[2] = "BOTH"; ObjectID = "CQD-Bb-LzE"; */
+"CQD-Bb-LzE.segmentTitles[2]" = "שניהם";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "ChI-L2-ig6"; */
+"ChI-L2-ig6.text" = "...";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "Cl8-fj-heK"; */
+"Cl8-fj-heK.normalTitle" = "זָכָר";
+
+/* Class = "UILabel"; text = "LEAD STATUS"; ObjectID = "Cua-lh-QZD"; */
+"Cua-lh-QZD.text" = "סטטוס מוביל";
+
+/* Class = "UILabel"; text = "Downloading.."; ObjectID = "DHk-3I-Vvw"; */
+"DHk-3I-Vvw.text" = "מוריד...";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Dbb-e1-eOh"; */
+"Dbb-e1-eOh.title" = "סגור";
+
+/* Class = "UILabel"; text = "AGE"; ObjectID = "DjZ-nP-rMR"; */
+"DjZ-nP-rMR.text" = "גיל";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "Dkn-1L-fjJ"; */
+"Dkn-1L-fjJ.text" = "לָקוּחַ";
+
+/* Class = "UILabel"; text = "The amount of invites sent to receive a leap"; ObjectID = "E4c-eW-kI8"; */
+"E4c-eW-kI8.text" = "מספר ההזמנות שנשלח לקבל קפיצת מדרגה";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "FIe-Kp-RPg"; */
+"FIe-Kp-RPg.text" = "מבצעים";
+
+/* Class = "UILabel"; text = "Leapp"; ObjectID = "FtE-zu-r8y"; */
+"FtE-zu-r8y.text" = "Leapp";
+
+/* Class = "UITextField"; placeholder = "Profession name"; ObjectID = "G06-Wj-5Gx"; */
+"G06-Wj-5Gx.placeholder" = "שם המקצוע";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "GNi-dt-IVU"; */
+"GNi-dt-IVU.title" = "סגור";
+
+/* Class = "UILabel"; text = "My card"; ObjectID = "GcJ-ly-bCF"; */
+"GcJ-ly-bCF.text" = "הכרטיס שלי";
+
+/* Class = "UILabel"; text = "Jennifer Patterson"; ObjectID = "HWj-Ad-MaR"; */
+"HWj-Ad-MaR.text" = "Jennifer Patterson";
+
+/* Class = "UILabel"; text = "Social media recommend."; ObjectID = "Hy1-TA-jDB"; */
+"Hy1-TA-jDB.text" = "מדיה חברתית ממליצה.";
+
+/* Class = "UILabel"; text = "."; ObjectID = "I5f-aw-LWu"; */
+"I5f-aw-LWu.text" = ".";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "IE6-p3-1pS"; */
+"IE6-p3-1pS.normalTitle" = "לַחֲלוֹק";
+
+/* Class = "UILabel"; text = "DO I NEED TO CALL BACK"; ObjectID = "IL7-iS-Ef7"; */
+"IL7-iS-Ef7.text" = "האם אני צריך להתקשר בחזרה";
+
+/* Class = "UILabel"; text = "... ...."; ObjectID = "IjX-1l-gwI"; */
+"IjX-1l-gwI.text" = "... ....";
+
+/* Class = "UILabel"; text = "Professionals"; ObjectID = "Ivr-Hm-Vl8"; */
+"Ivr-Hm-Vl8.text" = "בעלי מקצוע";
+
+/* Class = "UILabel"; text = "ENTER SMS CODE"; ObjectID = "Izm-CY-nV8"; */
+"Izm-CY-nV8.text" = "הזן קוד SMS";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "J3c-Ga-LwF"; */
+"J3c-Ga-LwF.normalTitle" = "הַבָּא";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "JDa-zh-UAH"; */
+"JDa-zh-UAH.text" = "מכשיר טלפון";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "JXw-oR-zSQ"; */
+"JXw-oR-zSQ.normalTitle" = "שינוי";
+
+/* Class = "UIButton"; normalTitle = "Agreement"; ObjectID = "Jkh-Ok-oJd"; */
+"Jkh-Ok-oJd.normalTitle" = "הֶסכֵּם";
+
+/* Class = "UIButton"; normalTitle = "Weekly"; ObjectID = "KKc-Jx-O0i"; */
+"KKc-Jx-O0i.normalTitle" = "שְׁבוּעִי";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "KqB-AA-AZh"; */
+"KqB-AA-AZh.text" = "כתובת";
+
+/* Class = "UILabel"; text = "."; ObjectID = "Kxh-TU-uI9"; */
+"Kxh-TU-uI9.text" = ".";
+
+/* Class = "UILabel"; text = "."; ObjectID = "LCx-VG-ZQl"; */
+"LCx-VG-ZQl.text" = ".";
+
+/* Class = "UITabBarItem"; title = "CLIENTS"; ObjectID = "LWx-Oh-yoN"; */
+"LWx-Oh-yoN.title" = "לקוחות";
+
+/* Class = "UINavigationItem"; title = "Edit Portfolio"; ObjectID = "LtG-1r-yjM"; */
+"LtG-1r-yjM.title" = "ערוך תיק עבודות";
+
+/* Class = "UIButton"; normalTitle = "Exit"; ObjectID = "Luw-QI-ibK"; */
+"Luw-QI-ibK.normalTitle" = "יְצִיאָה";
+
+/* Class = "UILabel"; text = "84"; ObjectID = "MFe-tU-9rk"; */
+"MFe-tU-9rk.text" = "84";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "N58-Ly-DRV"; */
+"N58-Ly-DRV.normalTitle" = "שינוי";
+
+/* Class = "UILabel"; text = "Customers sent leads"; ObjectID = "NYk-Yf-YMx"; */
+"NYk-Yf-YMx.text" = "לקוחות שלחו לידים";
+
+/* Class = "UIButton"; normalTitle = "I'm interested"; ObjectID = "Ngt-tW-kse"; */
+"Ngt-tW-kse.normalTitle" = "אני מתעניין";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ni7-zN-khO"; */
+"Ni7-zN-khO.text" = "תווית";
+
+/* Class = "UINavigationItem"; title = "Promotions"; ObjectID = "OMt-QG-dIl"; */
+"OMt-QG-dIl.title" = "מבצעים";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "Ocv-Qp-gbd"; */
+"Ocv-Qp-gbd.text" = "...";
+
+/* Class = "UILabel"; text = "YOUR PHONE NUMBER"; ObjectID = "P5A-tX-DkA"; */
+"P5A-tX-DkA.text" = "מספר הטלפון שלך";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "P7e-3C-zRU"; */
+"P7e-3C-zRU.text" = "...";
+
+/* Class = "UILabel"; text = "3.44"; ObjectID = "Pmk-fk-hst"; */
+"Pmk-fk-hst.text" = "3.44";
+
+/* Class = "UITextField"; placeholder = "up to"; ObjectID = "PsJ-8E-wub"; */
+"PsJ-8E-wub.placeholder" = "עד ל";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Q4c-aj-d8l"; */
+"Q4c-aj-d8l.title" = "חזור";
+
+/* Class = "UILabel"; text = "Others"; ObjectID = "QWj-8g-OIS"; */
+"QWj-8g-OIS.text" = "אחרים";
+
+/* Class = "UILabel"; text = "Portfolio"; ObjectID = "QYy-Hl-jDe"; */
+"QYy-Hl-jDe.text" = "תיק עבודות";
+
+/* Class = "UILabel"; text = "About me text field"; ObjectID = "QfH-dq-EQk"; */
+"QfH-dq-EQk.text" = "עלי שדה טקסט";
+
+/* Class = "UILabel"; text = "Leapp’s received"; ObjectID = "Qgv-BU-DVs"; */
+"Qgv-BU-DVs.text" = "ליאפ קיבל";
+
+/* Class = "UILabel"; text = "Recommend to Friends"; ObjectID = "Qq2-QF-Kas"; */
+"Qq2-QF-Kas.text" = "ממליץ לחברים";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "Qvx-N5-YuF"; */
+"Qvx-N5-YuF.normalTitle" = "לַחֲלוֹק";
+
+/* Class = "UILabel"; text = "Last name"; ObjectID = "RV5-Vy-n9g"; */
+"RV5-Vy-n9g.text" = "שם משפחה";
+
+/* Class = "UIButton"; normalTitle = "Upload your profile picture?"; ObjectID = "Rmb-gY-2oU"; */
+"Rmb-gY-2oU.normalTitle" = "להעלות את תמונת הפרופיל שלך?";
+
+/* Class = "UITabBarItem"; title = "LEADS"; ObjectID = "Roe-Tj-0pN"; */
+"Roe-Tj-0pN.title" = "מובילים";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "RwE-n2-6mn"; */
+"RwE-n2-6mn.title" = "סגור";
+
+/* Class = "UIBarButtonItem"; title = "Menu"; ObjectID = "Ry7-La-sQf"; */
+"Ry7-La-sQf.title" = "תַפרִיט";
+
+/* Class = "UILabel"; text = "Leapp Me invite’s sent"; ObjectID = "SZl-ub-BYr"; */
+"SZl-ub-BYr.text" = "ליפ לי הזמנה נשלחה";
+
+/* Class = "UITextField"; placeholder = "_ _ _ _ _ _"; ObjectID = "Scg-9M-QbT"; */
+"Scg-9M-QbT.placeholder" = "_ _ _ _ _ _";
+
+/* Class = "UILabel"; text = "29"; ObjectID = "TfA-FX-LZj"; */
+"TfA-FX-LZj.text" = "29";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Tq8-Gp-Rv3"; */
+"Tq8-Gp-Rv3.normalTitle" = "סגור";
+
+/* Class = "UILabel"; text = "Tags"; ObjectID = "UDk-Ab-5LG"; */
+"UDk-Ab-5LG.text" = "תגים";
+
+/* Class = "UILabel"; text = "Mutuals"; ObjectID = "UV7-Oj-0Nq"; */
+"UV7-Oj-0Nq.text" = "הדדיות";
+
+/* Class = "UITabBarItem"; title = "COMMUNITY"; ObjectID = "Ui6-N0-HLV"; */
+"Ui6-N0-HLV.title" = "קהילה";
+
+/* Class = "UILabel"; text = "             time"; ObjectID = "VXy-zZ-oNo"; */
+"VXy-zZ-oNo.text" = "             זְמַן";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "Vm4-Ua-gzj"; */
+"Vm4-Ua-gzj.text" = "מוריד...";
+
+/* Class = "UILabel"; text = "Professional"; ObjectID = "WJe-1W-Ynh"; */
+"WJe-1W-Ynh.text" = "מקצועי";
+
+/* Class = "UIButton"; normalTitle = "EDIT PROFILE"; ObjectID = "WNy-Cz-Rl9"; */
+"WNy-Cz-Rl9.normalTitle" = "ערוך פרופיל";
+
+/* Class = "UILabel"; text = "8 925 756 9587"; ObjectID = "WTl-h8-qVT"; */
+"WTl-h8-qVT.text" = "8 925 756 9587";
+
+/* Class = "UILabel"; text = "Statistics"; ObjectID = "X0h-IO-KDF"; */
+"X0h-IO-KDF.text" = "סטָטִיסטִיקָה";
+
+/* Class = "UILabel"; text = "9.0"; ObjectID = "XOc-3G-6VV"; */
+"XOc-3G-6VV.text" = "9.0";
+
+/* Class = "UIButton"; normalTitle = "Invite via WhatsApp"; ObjectID = "Xcc-ah-MP8"; */
+"Xcc-ah-MP8.normalTitle" = "הזמן באמצעות וואטסאפ";
+
+/* Class = "UIButton"; normalTitle = "Add to contacts"; ObjectID = "Xnv-N8-ON2"; */
+"Xnv-N8-ON2.normalTitle" = "להוסיף לאנשי קשר";
+
+/* Class = "UIButton"; normalTitle = "Change profile"; ObjectID = "Y25-I1-vOc"; */
+"Y25-I1-vOc.normalTitle" = "תשנה פרופיל";
+
+/* Class = "UINavigationItem"; title = "Statistics"; ObjectID = "YPE-am-6KD"; */
+"YPE-am-6KD.title" = "סטָטִיסטִיקָה";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "YnI-Rg-SIg"; */
+"YnI-Rg-SIg.text" = "יום הולדת";
+
+/* Class = "UILabel"; text = "Navigation"; ObjectID = "Ynu-iL-fLY"; */
+"Ynu-iL-fLY.text" = "ניווט";
+
+/* Class = "UILabel"; text = "Jennifer Patterson"; ObjectID = "Yyx-FG-E5V"; */
+"Yyx-FG-E5V.text" = "Jennifer Patterson";
+
+/* Class = "UILabel"; text = "Tap to save your location"; ObjectID = "ZGj-wh-Ynz"; */
+"ZGj-wh-Ynz.text" = "הקש כדי לשמור את המיקום שלך";
+
+/* Class = "UISearchBar"; placeholder = "Search in Leapper"; ObjectID = "ZQ8-oO-aPb"; */
+"ZQ8-oO-aPb.placeholder" = "חפש בליפר";
+
+/* Class = "UISearchBar"; ZQ8-oO-aPb.scopeButtonTitles[0] = "Title"; ObjectID = "ZQ8-oO-aPb"; */
+"ZQ8-oO-aPb.scopeButtonTitles[0]" = "כותרת";
+
+/* Class = "UISearchBar"; ZQ8-oO-aPb.scopeButtonTitles[1] = "Title"; ObjectID = "ZQ8-oO-aPb"; */
+"ZQ8-oO-aPb.scopeButtonTitles[1]" = "כותרת";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "aam-4B-ob7"; */
+"aam-4B-ob7.title" = "סגור";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "akJ-lc-fX2"; */
+"akJ-lc-fX2.normalTitle" = "לִשְׁלוֹחַ";
+
+/* Class = "UILabel"; text = "."; ObjectID = "ayr-uW-fKm"; */
+"ayr-uW-fKm.text" = ".";
+
+/* Class = "UIButton"; normalTitle = "Invite via SMS"; ObjectID = "bJq-IH-tKQ"; */
+"bJq-IH-tKQ.normalTitle" = "הזמן באמצעות SMS";
+
+/* Class = "UILabel"; text = "."; ObjectID = "bZC-8j-uGe"; */
+"bZC-8j-uGe.text" = ".";
+
+/* Class = "UILabel"; text = "Downloading..."; ObjectID = "bg9-DP-U4t"; */
+"bg9-DP-U4t.text" = "מוריד...";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "bh8-Wg-Fg2"; */
+"bh8-Wg-Fg2.normalTitle" = "נְקֵבָה";
+
+/* Class = "UILabel"; text = "Verified user"; ObjectID = "bu8-gU-P4O"; */
+"bu8-gU-P4O.text" = "משתמש מאומת";
+
+/* Class = "UINavigationItem"; title = "What does icons mean?"; ObjectID = "cPE-Ic-KEX"; */
+"cPE-Ic-KEX.title" = "מה פירוש אייקונים?";
+
+/* Class = "UILabel"; text = "Professions"; ObjectID = "ckH-dU-c4b"; */
+"ckH-dU-c4b.text" = "מקצועות";
+
+/* Class = "UILabel"; text = "Lead’s to invites ratio"; ObjectID = "cx1-Vg-Jca"; */
+"cx1-Vg-Jca.text" = "מוביל של יחס להזמנות";
+
+/* Class = "UITextField"; placeholder = "Type here"; ObjectID = "d7b-ih-GaI"; */
+"d7b-ih-GaI.placeholder" = "הקלד פה";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "dRA-kB-6b1"; */
+"dRA-kB-6b1.text" = "מוריד...";
+
+/* Class = "UILabel"; text = "Porfolio photos"; ObjectID = "deA-Eu-T0W"; */
+"deA-Eu-T0W.text" = "תמונות תיק";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "dhc-oO-EMP"; */
+"dhc-oO-EMP.text" = "5";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dzc-Rn-mPU"; */
+"dzc-Rn-mPU.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eBf-tn-2qn"; */
+"eBf-tn-2qn.text" = "תווית";
+
+/* Class = "UITextField"; placeholder = "Type here description"; ObjectID = "eHk-kQ-4DW"; */
+"eHk-kQ-4DW.placeholder" = "הקלד כאן תיאור";
+
+/* Class = "UINavigationItem"; title = "Client"; ObjectID = "eL2-hM-APa"; */
+"eL2-hM-APa.title" = "לָקוּחַ";
+
+/* Class = "UIButton"; normalTitle = "Yearly"; ObjectID = "eaf-aE-Y2p"; */
+"eaf-aE-Y2p.normalTitle" = "שְׁנָתִי";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "enf-o2-aua"; */
+"enf-o2-aua.text" = "תיאור";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "f4F-dX-6Pf"; */
+"f4F-dX-6Pf.text" = "...";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "fe4-Ty-iQi"; */
+"fe4-Ty-iQi.text" = "אימייל";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fiv-Ww-l40"; */
+"fiv-Ww-l40.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "fll-ol-JIC"; */
+"fll-ol-JIC.title" = "סגור";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "gNi-y1-09S"; */
+"gNi-y1-09S.text" = "...";
+
+/* Class = "UILabel"; text = "Lead qualification text field"; ObjectID = "gT7-Wj-ZgW"; */
+"gT7-Wj-ZgW.text" = "שדה טקסט להסמכת לידים";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "gkc-HH-k2w"; */
+"gkc-HH-k2w.title" = "חזור";
+
+/* Class = "UILabel"; text = "LOCATION UP TO RADIUS"; ObjectID = "grF-xF-qHx"; */
+"grF-xF-qHx.text" = "מיקום עד רדיוס";
+
+/* Class = "UILabel"; text = "Thank you!"; ObjectID = "h9v-kq-77l"; */
+"h9v-kq-77l.text" = "תודה!";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "i9E-PB-FQ8"; */
+"i9E-PB-FQ8.text" = "מועדפים";
+
+/* Class = "UISegmentedControl"; iMX-UO-28S.segmentTitles[0] = "CITY AND SURROUNDINGS"; ObjectID = "iMX-UO-28S"; */
+"iMX-UO-28S.segmentTitles[0]" = "עיר וסביבות";
+
+/* Class = "UISegmentedControl"; iMX-UO-28S.segmentTitles[1] = "REGION"; ObjectID = "iMX-UO-28S"; */
+"iMX-UO-28S.segmentTitles[1]" = "אזור";
+
+/* Class = "UISegmentedControl"; iMX-UO-28S.segmentTitles[2] = "ALL AROUND THE COUNTRY"; ObjectID = "iMX-UO-28S"; */
+"iMX-UO-28S.segmentTitles[2]" = "מסביב לארץ";
+
+/* Class = "UISegmentedControl"; iMX-UO-28S.segmentTitles[3] = "GLOBAL"; ObjectID = "iMX-UO-28S"; */
+"iMX-UO-28S.segmentTitles[3]" = "גלוֹבָּלִי";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "j0J-Uu-fdv"; */
+"j0J-Uu-fdv.title" = "להציל";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "j7U-RP-3sh"; */
+"j7U-RP-3sh.normalTitle" = "הגדרות";
+
+/* Class = "UILabel"; text = "Choose your account type"; ObjectID = "jFZ-xv-dw2"; */
+"jFZ-xv-dw2.text" = "בחר את סוג החשבון שלך";
+
+/* Class = "UILabel"; text = "About me"; ObjectID = "jG2-Yl-lQP"; */
+"jG2-Yl-lQP.text" = "עליי";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "jY0-Lp-iWj"; */
+"jY0-Lp-iWj.normalTitle" = "לִשְׁלוֹחַ";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "jYL-fh-USl"; */
+"jYL-fh-USl.text" = "18";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "jlO-wS-meX"; */
+"jlO-wS-meX.text" = "אתר אינטרנט";
+
+/* Class = "UILabel"; text = "People who follow your activity"; ObjectID = "kFo-Qg-nQC"; */
+"kFo-Qg-nQC.text" = "אנשים שעוקבים אחר הפעילות שלך";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "koi-z6-qeZ"; */
+"koi-z6-qeZ.title" = "להציל";
+
+/* Class = "UILabel"; text = "Portfolio"; ObjectID = "md0-LD-aug"; */
+"md0-LD-aug.text" = "תיק עבודות";
+
+/* Class = "UILabel"; text = "LEAD TYPE"; ObjectID = "n0J-dO-Bah"; */
+"n0J-dO-Bah.text" = "סוג מוביל";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "nap-ZH-Vyy"; */
+"nap-ZH-Vyy.normalTitle" = "להתחבר";
+
+/* Class = "UILabel"; text = "Verified"; ObjectID = "ng1-6r-Gis"; */
+"ng1-6r-Gis.text" = "מְאוּמָת";
+
+/* Class = "UIButton"; normalTitle = "Yes, I contacted with lead"; ObjectID = "nqP-p1-kru"; */
+"nqP-p1-kru.normalTitle" = "כן, יצרתי קשר עם עופרת";
+
+/* Class = "UILabel"; text = "Mutuals"; ObjectID = "oDt-tR-Ld3"; */
+"oDt-tR-Ld3.text" = "הדדיות";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "oQw-qf-tZp"; */
+"oQw-qf-tZp.text" = "מבצעים";
+
+/* Class = "UILabel"; text = "AMOUNT OF DISCOUNT"; ObjectID = "oaR-XB-mJL"; */
+"oaR-XB-mJL.text" = "כמות הנחות";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "ofa-XA-Icw"; */
+"ofa-XA-Icw.normalTitle" = "סגור";
+
+/* Class = "UIButton"; normalTitle = "Delete profile"; ObjectID = "okr-uv-mus"; */
+"okr-uv-mus.normalTitle" = "מחק פרופיל";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "opw-CE-XhB"; */
+"opw-CE-XhB.text" = "מוריד...";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "p6W-ay-bNz"; */
+"p6W-ay-bNz.title" = "סגור";
+
+/* Class = "UINavigationItem"; title = "Edit profile"; ObjectID = "p7O-9m-Fxb"; */
+"p7O-9m-Fxb.title" = "ערוך פרופיל";
+
+/* Class = "UITextView"; text = "Leave extra note"; ObjectID = "pKQ-yA-MPr"; */
+"pKQ-yA-MPr.text" = "השאירו הערה נוספת";
+
+/* Class = "UIButton"; normalTitle = "Add promotion"; ObjectID = "pSo-gv-TfR"; */
+"pSo-gv-TfR.normalTitle" = "הוסף קידום";
+
+/* Class = "UILabel"; text = "Welcome to Leapper"; ObjectID = "pbP-2s-E5o"; */
+"pbP-2s-E5o.text" = "ברוך הבא לליפר";
+
+/* Class = "UILabel"; text = "Moscow"; ObjectID = "pcs-iS-gT9"; */
+"pcs-iS-gT9.text" = "מוסקבה";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "qEp-mA-Qfj"; */
+"qEp-mA-Qfj.normalTitle" = "סגור";
+
+/* Class = "UILabel"; text = "NAME OF THE ACTION"; ObjectID = "qg0-D6-c0I"; */
+"qg0-D6-c0I.text" = "שם הפעולה";
+
+/* Class = "UILabel"; text = "Click to see who used the services"; ObjectID = "qua-z6-yX5"; */
+"qua-z6-yX5.text" = "לחץ כדי לראות מי השתמש בשירותים";
+
+/* Class = "UILabel"; text = "Community"; ObjectID = "qwV-XY-5Y7"; */
+"qwV-XY-5Y7.text" = "קהילה";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "r9N-CS-idt"; */
+"r9N-CS-idt.normalTitle" = "יַרחוֹן";
+
+/* Class = "UIButton"; normalTitle = "Give Leads"; ObjectID = "rSp-lh-CQo"; */
+"rSp-lh-CQo.normalTitle" = "תן לידים";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "rfG-wa-MeU"; */
+"rfG-wa-MeU.text" = "0";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "rlv-lR-i0i"; */
+"rlv-lR-i0i.text" = "שֵׁם";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "sag-ny-8DQ"; */
+"sag-ny-8DQ.title" = "מועדפים";
+
+/* Class = "UILabel"; text = "."; ObjectID = "sal-9Z-aP9"; */
+"sal-9Z-aP9.text" = ".";
+
+/* Class = "UILabel"; text = "ENTER A PHONE NUMBER"; ObjectID = "sg7-uh-ZWn"; */
+"sg7-uh-ZWn.text" = "הזן מספר טלפון";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "svc-jJ-MnA"; */
+"svc-jJ-MnA.normalTitle" = "סגור";
+
+/* Class = "UISegmentedControl"; t1K-pU-ZHX.segmentTitles[0] = "BUSINESS"; ObjectID = "t1K-pU-ZHX"; */
+"t1K-pU-ZHX.segmentTitles[0]" = "עֵסֶק";
+
+/* Class = "UISegmentedControl"; t1K-pU-ZHX.segmentTitles[1] = "PERSONAL"; ObjectID = "t1K-pU-ZHX"; */
+"t1K-pU-ZHX.segmentTitles[1]" = "אישי";
+
+/* Class = "UISegmentedControl"; t1K-pU-ZHX.segmentTitles[2] = "BOTH"; ObjectID = "t1K-pU-ZHX"; */
+"t1K-pU-ZHX.segmentTitles[2]" = "שניהם";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tSg-xK-1Di"; */
+"tSg-xK-1Di.text" = "תווית";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "tpA-R1-Aub"; */
+"tpA-R1-Aub.text" = "מוריד...";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "tsz-ef-pqU"; */
+"tsz-ef-pqU.text" = "0";
+
+/* Class = "UILabel"; text = "Adress"; ObjectID = "ttZ-cV-LKl"; */
+"ttZ-cV-LKl.text" = "כתובת";
+
+/* Class = "UILabel"; text = "Personal broker"; ObjectID = "u0q-MK-eXE"; */
+"u0q-MK-eXE.text" = "מתווך אישי";
+
+/* Class = "UIButton"; normalTitle = "Upload image"; ObjectID = "u4v-90-r2D"; */
+"u4v-90-r2D.normalTitle" = "העלאת תמונה";
+
+/* Class = "UILabel"; text = "Leapp’s to invites ratio"; ObjectID = "u53-0X-VjH"; */
+"u53-0X-VjH.text" = "יחס של Leapp להזמנות";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "uka-V8-jia"; */
+"uka-V8-jia.text" = "לָקוּחַ";
+
+/* Class = "UILabel"; text = "Recommend on Social Networks"; ObjectID = "v7B-Yc-bnX"; */
+"v7B-Yc-bnX.text" = "המלץ על רשתות חברתיות";
+
+/* Class = "UILabel"; text = "Tell us more about yourself..."; ObjectID = "vCW-gc-NWL"; */
+"vCW-gc-NWL.text" = "ספר לנו עוד על עצמך...";
+
+/* Class = "UILabel"; text = "Recommended"; ObjectID = "vkx-em-p7e"; */
+"vkx-em-p7e.text" = "מוּמלָץ";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "wDu-PS-a7f"; */
+"wDu-PS-a7f.text" = "אתר אינטרנט";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wHh-e5-q24"; */
+"wHh-e5-q24.text" = "תווית";
+
+/* Class = "UINavigationItem"; title = "Promotions"; ObjectID = "wLL-fn-2rC"; */
+"wLL-fn-2rC.title" = "מבצעים";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "whC-QO-IAv"; */
+"whC-QO-IAv.title" = "חזור";
+
+/* Class = "UILabel"; text = "0 mutual favorites"; ObjectID = "wwA-b3-zhS"; */
+"wwA-b3-zhS.text" = "0 מועדפים הדדיים";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "xKs-ji-zB7"; */
+"xKs-ji-zB7.title" = "סגור";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "xLz-GW-2X4"; */
+"xLz-GW-2X4.text" = "100";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "xMI-LG-YF4"; */
+"xMI-LG-YF4.title" = "חזור";
+
+/* Class = "UILabel"; text = "."; ObjectID = "xrN-lC-sgb"; */
+"xrN-lC-sgb.text" = ".";
+
+/* Class = "UILabel"; text = "Profession"; ObjectID = "y08-W7-AFB"; */
+"y08-W7-AFB.text" = "מִקצוֹעַ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "yQr-AC-mf2"; */
+"yQr-AC-mf2.normalTitle" = "בוצע";
+
+/* Class = "UILabel"; text = "Downloading...."; ObjectID = "z4K-bv-udl"; */
+"z4K-bv-udl.text" = "מוריד...";
+
+/* Class = "UIBarButtonItem"; title = "Show"; ObjectID = "z9w-2B-JeR"; */
+"z9w-2B-JeR.title" = "הופעה";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "zJE-Kv-HYW"; */
+"zJE-Kv-HYW.title" = "חזור";
+
+/* Class = "UILabel"; text = "Fullname"; ObjectID = "zUY-zt-1DQ"; */
+"zUY-zt-1DQ.text" = "שם מלא";
